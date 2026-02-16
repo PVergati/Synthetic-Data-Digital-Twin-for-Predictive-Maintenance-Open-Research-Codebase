@@ -1,0 +1,57 @@
+{
+  "generator_version": "4.0.0",
+  "generation_timestamp": "2026-02-16T14:20:16.115060",
+  "simulation_config": {
+    "start_date": "2023-01-01",
+    "duration_days": 880,
+    "monte_carlo_runs": 1000,
+    "seed": 42
+  },
+  "asset_summary": {
+    "total_assets": 58,
+    "asset_types": {
+      "FCU": 50,
+      "CHW_Pump": 3,
+      "HW_Pump": 2,
+      "HeatPump": 2,
+      "CoolingTower": 1
+    }
+  },
+  "results_summary": {
+    "total_events": 13851,
+    "representative_events": 12,
+    "avg_events_per_run": 13.851,
+    "cascade_events": 9718
+  },
+  "physics_enhanced": {
+    "thermodynamics": true,
+    "cascade_model": true,
+    "degradation_model": true,
+    "stress_factors": true,
+    "validation": true
+  },
+  "output_columns": {
+    "original_v3_4": 17,
+    "new_physics": 12,
+    "total": 29
+  },
+  "references": {
+    "weibull_params": [
+      "ASHRAE_RP1493_2014",
+      "IEEE_493_2007"
+    ],
+    "cascade_rates": [
+      "Ebrahimi_2019",
+      "Wang_Jin_2017"
+    ],
+    "thermodynamics": [
+      "ASHRAE_2021",
+      "ISO_13790_2008",
+      "ISO_7730_2005"
+    ],
+    "degradation": [
+      "Jardine_2006",
+      "MIL_HDBK_217F"
+    ]
+  }
+}
