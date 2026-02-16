@@ -1,0 +1,45 @@
+{
+  "framework_version": "PM_v4.0_PHYSICS_INFORMED",
+  "generation_timestamp": "2026-02-16T14:22:47.724431",
+  "total_events_generated": 13851,
+  "simulation_period_days": 880,
+  "monte_carlo_runs": 1000,
+  "conservation_laws": {
+    "overall_pass": false,
+    "overall_pass_rate_%": 86.66666666666667,
+    "mean_error_%": 0.0,
+    "status": "PARTIAL"
+  },
+  "operational_physical_coupling": {
+    "events_analyzed": 5,
+    "mean_peak_temp_C": 69.93195241348482,
+    "mean_sensor_health_loss_%": 23.471934699112083,
+    "mean_measurement_bias_C": 0.023471934699112074,
+    "status": "DEMONSTRATED"
+  },
+  "cascade_coverage": {
+    "patterns_documented": 7,
+    "patterns_covered": 5,
+    "coverage_%": 71.42857142857143,
+    "physical_consistency_%": 99.72375690607734,
+    "status": "PASS"
+  },
+  "deep_learning_comparison": {
+    "physics_informed_statistical_fidelity": 18.586145969396384,
+    "physics_informed_physics_consistency_%": 95.0,
+    "physics_informed_utility_score": 100.0,
+    "physics_informed_training_time_s": 0.0,
+    "avg_baseline_physics_consistency_%": 73.11666666666667,
+    "physics_advantage_%": 21.883333333333326,
+    "status": "SUPERIOR"
+  },
+  "domain_adaptation": {
+    "target_domains_tested": 3,
+    "avg_mmd_distance": 0.028664484650939338,
+    "avg_transfer_efficiency_%": 68.78230011401925,
+    "min_tstr_accuracy": 0.16,
+    "max_tstr_accuracy": 0.31333333333333335,
+    "domain_invariance_achieved": true,
+    "status": "PASS"
+  }
+}

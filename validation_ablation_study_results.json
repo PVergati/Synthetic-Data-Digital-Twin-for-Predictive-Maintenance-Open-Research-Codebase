@@ -1,0 +1,110 @@
+{
+  "generators": {
+    "advanced": {
+      "name": "Physics-Informed (v4.0)",
+      "columns": 29,
+      "events": 13851
+    },
+    "baseline1": {
+      "name": "Weibull-Only",
+      "columns": 10,
+      "events": 4102
+    },
+    "baseline2": {
+      "name": "Weibull + Stress",
+      "columns": 13,
+      "events": 4145
+    }
+  },
+  "comparisons": {
+    "total_downtime_h": {
+      "ks_tests": {
+        "advanced_vs_baseline1": {
+          "statistic": 0.6442361891470062,
+          "p_value": 0.0,
+          "significant": "True"
+        },
+        "advanced_vs_baseline2": {
+          "statistic": 0.6378806701932571,
+          "p_value": 0.0,
+          "significant": "True"
+        },
+        "baseline1_vs_baseline2": {
+          "statistic": 0.03493467836749145,
+          "p_value": 0.012612354894504954,
+          "significant": "True"
+        }
+      },
+      "wasserstein_distances": {
+        "advanced_vs_baseline1": 17.832869548793553,
+        "advanced_vs_baseline2": 17.76635128472666,
+        "baseline1_vs_baseline2": 0.10353762952117418
+      },
+      "moments": {
+        "advanced": {
+          "mean": 21.39378371050643,
+          "std": 18.985520298380713,
+          "skew": 1.2495098347857507,
+          "kurtosis": 1.444606001135937
+        },
+        "baseline1": {
+          "mean": 3.5609141617128723,
+          "std": 2.8359485027695954,
+          "skew": 2.4129154610715275,
+          "kurtosis": 8.52565542280837
+        },
+        "baseline2": {
+          "mean": 3.6274324257797677,
+          "std": 2.761729315047392,
+          "skew": 2.0940042859152093,
+          "kurtosis": 5.883514954740713
+        }
+      }
+    },
+    "severity": {
+      "ks_tests": {
+        "advanced_vs_baseline1": {
+          "statistic": 0.06794947733946721,
+          "p_value": 3.7695004643892713e-13,
+          "significant": "True"
+        },
+        "advanced_vs_baseline2": {
+          "statistic": 0.08004855049157933,
+          "p_value": 3.1552752345284064e-18,
+          "significant": "True"
+        },
+        "baseline1_vs_baseline2": {
+          "statistic": 0.026820951149781887,
+          "p_value": 0.10036944948480084,
+          "significant": "False"
+        }
+      },
+      "wasserstein_distances": {
+        "advanced_vs_baseline1": 0.1443490782884963,
+        "advanced_vs_baseline2": 0.18901063089251013,
+        "baseline1_vs_baseline2": 0.04466155260401383
+      },
+      "moments": {
+        "advanced": {
+          "mean": 1.5969966067431955,
+          "std": 0.6845360741156115,
+          "skew": 1.143294275120998,
+          "kurtosis": 1.6210608697733617
+        },
+        "baseline1": {
+          "mean": 1.741345685031692,
+          "std": 0.8176752569904207,
+          "skew": 1.0693788937128144,
+          "kurtosis": 0.7623470607006801
+        },
+        "baseline2": {
+          "mean": 1.7860072376357057,
+          "std": 0.8319883924132977,
+          "skew": 1.010239700222903,
+          "kurtosis": 0.6042189669569336
+        }
+      }
+    }
+  },
+  "physics_realism_score": 9.951194859576926
+}

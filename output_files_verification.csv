@@ -1,0 +1,27 @@
+filename,description,size_bytes,size_mb,category
+maintenance_events.csv,"Advanced generator - 29 columns, all events",4423975,4.21903133392334,Core Data
+maintenance_events.parquet,"Advanced generator - 29 columns, all events (Parquet)",1343783,1.2815313339233398,Core Data
+maintenance_events_representative.csv,Representative single run - 29 columns,4323,0.004122734069824219,Core Data
+maintenance_events_representative.parquet,Representative single run (Parquet),22519,0.021475791931152344,Core Data
+maintenance_events_baseline1_weibull_only.csv,Baseline 1: Weibull-only (10 columns),545138,0.5198841094970703,Baseline
+maintenance_events_baseline2_weibull_stress.csv,Baseline 2: Weibull+Stress (13 columns),784471,0.7481298446655273,Baseline
+assets_registry.csv,Asset registry (58 assets with metadata),3844,0.003665924072265625,Metadata
+failure_statistics.csv,Failure statistics by asset type,1124,0.001071929931640625,Core Data
+severity_distribution.csv,Severity category distribution,439,0.00041866302490234375,Core Data
+cascade_events_log.csv,Cascade failure events log,103,9.822845458984375e-05,Validation
+constraint_impact_analysis.csv,Physics constraints impact analysis,251,0.00023937225341796875,Core Data
+sensor_timeseries_sample.csv,Physics-informed sensor waveforms,82,7.82012939453125e-05,Time-Series
+operational_physical_coupling_analysis.csv,Op-Physical coupling analysis (19-TER),682,0.0006504058837890625,Validation
+operational_physical_coupling_detailed.png,Coupling detailed visualization,416923,0.39760875701904297,Validation
+cascade_coverage_analysis.csv,Cascade pattern coverage vs literature (19-QUATER),785,0.0007486343383789062,Validation
+cascade_validation_summary.csv,Cascade validation summary,203,0.00019359588623046875,Validation
+cascade_coverage_comprehensive.png,Cascade coverage visualization,555908,0.5301551818847656,Validation
+deep_learning_baseline_comparison.csv,DL baselines comparison (19-QUINQUIES),395,0.00037670135498046875,Baseline
+deep_learning_baselines_comparison.png,DL baselines visualization,504879,0.4814901351928711,Baseline
+domain_adaptation_mmd.csv,Domain adaptation MMD distances (19-SEXIES),125,0.00011920928955078125,Validation
+domain_adaptation_transfer.csv,Transfer learning metrics,350,0.0003337860107421875,Validation
+domain_adaptation_comprehensive.png,Domain adaptation visualization,791630,0.7549571990966797,Validation
+validation_ablation_study_results.json,Statistical validation results,3159,0.0030126571655273438,Core Data
+validation_ablation_study_summary.csv,Ablation study summary,401,0.00038242340087890625,Core Data
+ablation_study_comparison.png,Ablation study visualization,424308,0.4046516418457031,Core Data
+metadata.json,Complete simulation metadata with validation flags,1213,0.0011568069458007812,Metadata

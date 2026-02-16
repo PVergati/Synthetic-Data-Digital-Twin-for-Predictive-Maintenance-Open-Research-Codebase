@@ -1,0 +1,4 @@
+domain,mmd_distance,n_samples_target
+Office,0.0,500
+Residential,0.06231630344682278,500
+Hospital,0.02367715050599524,500

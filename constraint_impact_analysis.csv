@@ -1,0 +1,6 @@
+constraint_type,event_count,percentage
+Thermal Comfort (PPD>20%),338,2.4402570211537076
+High Degradation (score>50),365,2.6351887950328496
+High Stress (AF>1.5),96,0.6930907515702838
+Cascade Events,9718,70.16099920583352
+Total Events,13851,100.0

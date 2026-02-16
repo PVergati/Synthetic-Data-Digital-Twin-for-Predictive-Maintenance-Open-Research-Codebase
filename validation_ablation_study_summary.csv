@@ -1,0 +1,4 @@
+Generator,Total_Events,Mean_Downtime_h,Std_Downtime_h,Mean_Severity,Cascade_Events,Output_Columns,Physics_Enhanced
+Advanced (v4.0),13851,21.39378371050643,18.986205683854095,1.5969966067431955,9718,29,Yes
+Baseline 1 (Weibull),4102,3.5609141617128723,2.836294244740135,1.741345685031692,0,10,No
+Baseline 2 (Weibull+Stress),4145,3.6274324257797677,2.7620625151831355,1.7860072376357057,0,13,Partial

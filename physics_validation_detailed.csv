@@ -1,0 +1,16 @@
+test_name,n_samples,metric,value,threshold,pass,category
+Thermal_Energy_Correlation,338,Pearson_r,0.3942073623393632,0.5,FAIL,Thermal
+RUL_Degradation_Coupling,13851,Spearman_rho,0.9999999999999999,0.3,PASS,RUL
+Arrhenius_Stress_Mean,13851,mean_value,0.704985342516881,0.8-2.0,FAIL,Arrhenius
+Cascade_Probability_Bounds,13851,mean_probability,0.015054364305826294,0.05-0.30,PASS,Cascade
+Bounds_zone_temp_rise_C,13851,pass_rate_%,97.5597429788463,95.0,PASS,Bounds
+Bounds_peak_zone_temp_C,13851,pass_rate_%,97.5597429788463,95.0,PASS,Bounds
+Bounds_energy_deficit_kWh,13851,pass_rate_%,98.85928813804058,95.0,PASS,Bounds
+Bounds_comfort_hours_lost,13851,pass_rate_%,99.96390152335572,95.0,PASS,Bounds
+Bounds_ppd_discomfort_pct,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Bounds_secondary_damage_score,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Bounds_rul_reduction_pct,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Bounds_repair_cost_multiplier,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Bounds_arrhenius_stress_factor,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Bounds_occupancy_stress_multiplier,13851,pass_rate_%,100.0,95.0,PASS,Bounds
+Time_Additivity,13851,pass_rate_%,100.0,99.9,PASS,Time

@@ -1,0 +1,8 @@
+documented_chain,reference,expected_probability,found,occurrences,mechanism
+HeatPump_to_FCU_thermal,Ebrahimi 2019 Table 3 Row 2,0.25,True,100,Loss of chilled/heated water supply
+HeatPump_to_Pump_overload,Ebrahimi 2019 Table 3 Row 5,0.15,True,10,Pump overload due to system imbalance
+Pump_to_CoolingTower,Ebrahimi 2019 Table 3 Row 7,0.12,False,0,Loss of water circulation
+Pump_to_FCU_flow,Ebrahimi 2019 Table 3 Row 4,0.18,True,250,Insufficient flow to terminal units
+CoolingTower_to_HeatPump,Li et al. 2020 Case Study 3,0.2,True,2,High condenser temperature
+HeatPump_to_Pump_to_FCU,Li et al. 2020 Case Study 5,0.08,True,100,Sequential propagation through hydraulic system
+Pump_redundancy_cascade,Wang & Jin 2017 Section 4.2,0.1,False,0,Overload on remaining pumps after failure
