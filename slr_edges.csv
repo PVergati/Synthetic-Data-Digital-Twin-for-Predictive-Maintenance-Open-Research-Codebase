@@ -1,0 +1,407 @@
+source_node,target_node,edge_type,weight
+"('P', 467)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 467)","('P', 440)",paper-paper,0.3033870536820089
+"('P', 467)","('P', 452)",paper-paper,0.35384433196589166
+"('P', 467)","('P', 466)",paper-paper,0.4197251600595772
+"('P', 412)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 412)","('P', 5)",paper-paper,0.36774344514212426
+"('P', 412)","('P', 407)",paper-paper,0.5431371197583067
+"('P', 412)","('P', 420)",paper-paper,0.37331049741121625
+"('P', 476)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 476)","('P', 472)",paper-paper,0.3857871932926312
+"('P', 476)","('P', 473)",paper-paper,0.4696103040270983
+"('P', 476)","('P', 478)",paper-paper,0.4696103040270983
+"('P', 421)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 421)","('P', 5)",paper-paper,0.3032570488214101
+"('P', 421)","('P', 418)",paper-paper,0.2923553997231345
+"('P', 421)","('P', 420)",paper-paper,0.29546882798252627
+"('P', 421)","('P', 438)",paper-paper,0.5425851855772804
+"('P', 421)","('P', 433)",paper-paper,0.2809255304789806
+"('P', 494)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 494)","('KW', 'facility management')",paper-topic,1.0
+"('P', 494)","('P', 488)",paper-paper,0.3138012383706327
+"('P', 494)","('P', 489)",paper-paper,0.29556324422874747
+"('P', 494)","('P', 495)",paper-paper,0.36348049132622134
+"('KW', 'synthetic data')","('P', 5)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 7)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 12)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 24)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 36)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 39)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 400)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 402)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 404)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 406)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 407)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 409)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 410)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 411)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 413)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 416)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 417)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 418)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 419)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 420)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 422)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 423)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 424)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 425)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 426)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 432)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 433)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 434)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 435)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 437)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 438)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 439)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 441)",paper-topic,1.0
+"('P', 12)","('P', 424)",paper-paper,0.3548510465902738
+"('P', 131)","('KW', 'facility management')",paper-topic,1.0
+"('P', 131)","('P', 510)",paper-paper,0.2942525662264718
+"('P', 131)","('P', 500)",paper-paper,0.3743259257715939
+"('P', 131)","('P', 488)",paper-paper,0.32530873111623393
+"('P', 503)","('KW', 'facility management')",paper-topic,1.0
+"('P', 503)","('P', 425)",paper-paper,0.39606515683649834
+"('KW', 'facility management')","('P', 121)",paper-topic,1.0
+"('KW', 'facility management')","('P', 129)",paper-topic,1.0
+"('KW', 'facility management')","('P', 488)",paper-topic,1.0
+"('KW', 'facility management')","('P', 489)",paper-topic,1.0
+"('KW', 'facility management')","('P', 492)",paper-topic,1.0
+"('KW', 'facility management')","('P', 493)",paper-topic,1.0
+"('KW', 'facility management')","('P', 495)",paper-topic,1.0
+"('KW', 'facility management')","('P', 496)",paper-topic,1.0
+"('KW', 'facility management')","('P', 497)",paper-topic,1.0
+"('KW', 'facility management')","('P', 498)",paper-topic,1.0
+"('KW', 'facility management')","('P', 500)",paper-topic,1.0
+"('KW', 'facility management')","('P', 504)",paper-topic,1.0
+"('KW', 'facility management')","('P', 505)",paper-topic,1.0
+"('KW', 'facility management')","('P', 506)",paper-topic,1.0
+"('KW', 'facility management')","('P', 507)",paper-topic,1.0
+"('KW', 'facility management')","('P', 508)",paper-topic,1.0
+"('KW', 'facility management')","('P', 509)",paper-topic,1.0
+"('KW', 'facility management')","('P', 510)",paper-topic,1.0
+"('KW', 'facility management')","('P', 511)",paper-topic,1.0
+"('KW', 'facility management')","('P', 514)",paper-topic,1.0
+"('KW', 'facility management')","('P', 516)",paper-topic,1.0
+"('KW', 'facility management')","('P', 519)",paper-topic,1.0
+"('KW', 'facility management')","('P', 521)",paper-topic,1.0
+"('KW', 'facility management')","('P', 522)",paper-topic,1.0
+"('KW', 'facility management')","('P', 523)",paper-topic,1.0
+"('KW', 'facility management')","('P', 524)",paper-topic,1.0
+"('P', 140)","('KW', 'weibull')",paper-topic,1.0
+"('P', 140)","('P', 572)",paper-paper,0.2929300515935038
+"('P', 39)","('P', 7)",paper-paper,0.3003465781202435
+"('P', 460)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 460)","('P', 445)",paper-paper,0.47142522259772257
+"('P', 524)","('P', 514)",paper-paper,0.3285911715185656
+"('KW', 'digital twin')","('P', 43)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 49)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 52)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 54)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 56)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 59)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 72)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 74)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 77)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 78)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 121)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 243)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 255)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 262)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 269)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 422)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 440)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 441)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 442)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 445)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 446)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 447)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 448)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 449)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 450)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 451)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 452)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 453)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 454)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 455)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 457)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 458)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 459)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 461)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 462)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 463)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 464)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 465)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 466)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 489)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 492)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 495)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 508)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 511)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 534)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 536)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 539)",paper-topic,1.0
+"('P', 478)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 478)","('P', 96)",paper-paper,0.2821990846555076
+"('P', 478)","('P', 99)",paper-paper,0.29554404810596574
+"('P', 478)","('P', 102)",paper-paper,0.28693612382574407
+"('P', 478)","('P', 112)",paper-paper,0.34816573065644546
+"('P', 478)","('P', 155)",paper-paper,0.3111994690272719
+"('P', 478)","('P', 471)",paper-paper,0.3704620634402055
+"('P', 478)","('P', 472)",paper-paper,0.7314811707310882
+"('P', 478)","('P', 473)",paper-paper,1.0
+"('P', 5)","('P', 418)",paper-paper,0.36101698847074315
+"('P', 5)","('P', 419)",paper-paper,0.29971670841616815
+"('P', 5)","('P', 435)",paper-paper,0.3155494193949898
+"('P', 5)","('P', 410)",paper-paper,0.3066540505727488
+"('P', 5)","('P', 426)",paper-paper,0.3986702160591528
+"('P', 5)","('P', 422)",paper-paper,0.28895810763140917
+"('P', 5)","('P', 433)",paper-paper,0.3604461247588251
+"('P', 5)","('P', 420)",paper-paper,0.3840950831684875
+"('P', 432)","('P', 404)",paper-paper,0.33154788770747917
+"('P', 432)","('P', 410)",paper-paper,0.2985470286456274
+"('P', 432)","('P', 419)",paper-paper,0.290338279315014
+"('P', 432)","('P', 424)",paper-paper,0.37352693457281005
+"('P', 432)","('P', 426)",paper-paper,0.28392801120591205
+"('P', 432)","('P', 435)",paper-paper,0.2929770529200971
+"('P', 496)","('P', 489)",paper-paper,0.3039369386742302
+"('P', 496)","('P', 495)",paper-paper,0.2829614668097664
+"('P', 496)","('P', 514)",paper-paper,0.3380100586702782
+"('P', 496)","('P', 500)",paper-paper,0.3917163347222528
+"('P', 496)","('P', 509)",paper-paper,0.36557854673982754
+"('P', 496)","('P', 510)",paper-paper,0.5983658796823207
+"('P', 496)","('P', 521)",paper-paper,0.3841909379038381
+"('P', 496)","('P', 504)",paper-paper,0.4740829458135834
+"('P', 78)","('P', 400)",paper-paper,0.3484734773563856
+"('P', 142)","('KW', 'weibull')",paper-topic,1.0
+"('P', 142)","('P', 151)",paper-paper,0.3563139191735092
+"('P', 151)","('KW', 'weibull')",paper-topic,1.0
+"('P', 96)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 96)","('P', 473)",paper-paper,0.2821990846555076
+"('P', 96)","('P', 99)",paper-paper,0.338139303547996
+"('P', 453)","('P', 243)",paper-paper,0.30162061128840123
+"('P', 453)","('P', 440)",paper-paper,0.36312092715915983
+"('P', 453)","('P', 452)",paper-paper,0.3853056767185357
+"('P', 453)","('P', 539)",paper-paper,0.30162061128840123
+"('P', 453)","('P', 466)",paper-paper,0.5012623069002908
+"('KW', 'weibull')","('P', 104)",paper-topic,1.0
+"('KW', 'weibull')","('P', 139)",paper-topic,1.0
+"('KW', 'weibull')","('P', 155)",paper-topic,1.0
+"('KW', 'weibull')","('P', 354)",paper-topic,1.0
+"('KW', 'weibull')","('P', 372)",paper-topic,1.0
+"('KW', 'weibull')","('P', 475)",paper-topic,1.0
+"('KW', 'weibull')","('P', 477)",paper-topic,1.0
+"('KW', 'weibull')","('P', 568)",paper-topic,1.0
+"('KW', 'weibull')","('P', 572)",paper-topic,1.0
+"('KW', 'weibull')","('P', 574)",paper-topic,1.0
+"('KW', 'weibull')","('P', 576)",paper-topic,1.0
+"('KW', 'weibull')","('P', 577)",paper-topic,1.0
+"('KW', 'weibull')","('P', 580)",paper-topic,1.0
+"('P', 462)","('P', 448)",paper-paper,0.344578392578603
+"('P', 407)","('P', 420)",paper-paper,0.34820306133282763
+"('P', 471)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 471)","('P', 473)",paper-paper,0.3704620634402055
+"('P', 471)","('P', 472)",paper-paper,0.28452558752195867
+"('P', 416)","('P', 402)",paper-paper,0.2912587325724572
+"('P', 416)","('P', 406)",paper-paper,0.29187619217660804
+"('P', 416)","('P', 426)",paper-paper,0.3027859308344203
+"('P', 416)","('P', 420)",paper-paper,0.2854619435255787
+"('P', 416)","('P', 422)",paper-paper,0.28263538312326436
+"('P', 416)","('P', 418)",paper-paper,0.3416811188247103
+"('P', 489)","('P', 495)",paper-paper,0.37093822542597177
+"('P', 446)","('P', 466)",paper-paper,0.28840825420773053
+"('P', 510)","('P', 129)",paper-paper,0.2987162855971995
+"('P', 510)","('P', 488)",paper-paper,0.2812763873432141
+"('P', 510)","('P', 500)",paper-paper,0.46555831434775297
+"('P', 510)","('P', 504)",paper-paper,0.4826536078967894
+"('P', 510)","('P', 505)",paper-paper,0.331079529605673
+"('P', 510)","('P', 509)",paper-paper,0.3861245826431198
+"('P', 510)","('P', 522)",paper-paper,0.3542525010154032
+"('P', 510)","('P', 521)",paper-paper,0.37553053573350226
+"('P', 510)","('P', 523)",paper-paper,0.3381333619540076
+"('P', 455)","('P', 440)",paper-paper,0.30088757304101055
+"('P', 455)","('P', 466)",paper-paper,0.2829917149527055
+"('P', 455)","('P', 465)",paper-paper,0.32718233400616686
+"('P', 574)","('P', 568)",paper-paper,0.562763312803262
+"('P', 400)","('P', 36)",paper-paper,0.3039767259261935
+"('P', 519)","('P', 500)",paper-paper,0.2860360458565585
+"('P', 519)","('P', 514)",paper-paper,0.3537966425240042
+"('P', 519)","('P', 516)",paper-paper,0.30308459748192873
+"('P', 464)","('P', 447)",paper-paper,0.28184807551852875
+"('P', 409)","('P', 439)",paper-paper,0.4986914076973742
+"('P', 354)","('P', 372)",paper-paper,0.5328640690917762
+"('P', 473)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 473)","('P', 99)",paper-paper,0.29554404810596574
+"('P', 473)","('P', 102)",paper-paper,0.28693612382574407
+"('P', 473)","('P', 112)",paper-paper,0.34816573065644546
+"('P', 473)","('P', 155)",paper-paper,0.3111994690272719
+"('P', 473)","('P', 472)",paper-paper,0.7314811707310882
+"('P', 418)","('P', 402)",paper-paper,0.34740466208808235
+"('P', 418)","('P', 404)",paper-paper,0.2883698769168097
+"('P', 418)","('P', 406)",paper-paper,0.2973558467217377
+"('P', 418)","('P', 410)",paper-paper,0.3239216489383542
+"('P', 418)","('P', 433)",paper-paper,0.2973148370144192
+"('P', 418)","('P', 424)",paper-paper,0.34091951786460034
+"('P', 418)","('P', 437)",paper-paper,0.2876189319690109
+"('P', 418)","('P', 420)",paper-paper,0.3687067621272894
+"('P', 418)","('P', 419)",paper-paper,0.3857586230002529
+"('P', 418)","('P', 422)",paper-paper,0.3429758747374244
+"('P', 418)","('P', 435)",paper-paper,0.3530594547917919
+"('P', 418)","('P', 426)",paper-paper,0.438343007828283
+"('P', 119)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 119)","('P', 99)",paper-paper,0.3068308982440434
+"('P', 155)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 448)","('P', 465)",paper-paper,0.28779252956347456
+"('P', 576)","('P', 580)",paper-paper,0.37908486956571286
+"('P', 402)","('P', 426)",paper-paper,0.31641104269242737
+"('P', 402)","('P', 419)",paper-paper,0.3443374128853458
+"('P', 402)","('P', 422)",paper-paper,0.3340761796524851
+"('P', 521)","('P', 498)",paper-paper,0.29030670150822985
+"('P', 521)","('P', 500)",paper-paper,0.3972181283374119
+"('P', 521)","('P', 504)",paper-paper,0.4230200839555388
+"('P', 521)","('P', 509)",paper-paper,0.28667606199193046
+"('P', 521)","('P', 514)",paper-paper,0.3978360943146374
+"('P', 466)","('P', 49)",paper-paper,0.3336147843611616
+"('P', 466)","('P', 52)",paper-paper,0.4361735893707106
+"('P', 466)","('P', 121)",paper-paper,0.3926062827970429
+"('P', 466)","('P', 243)",paper-paper,0.6017221066422584
+"('P', 466)","('P', 262)",paper-paper,0.37841457327053313
+"('P', 466)","('P', 269)",paper-paper,0.5225837828114137
+"('P', 466)","('P', 440)",paper-paper,0.6914101616907533
+"('P', 466)","('P', 447)",paper-paper,0.29962461099290194
+"('P', 466)","('P', 449)",paper-paper,0.5085045698363148
+"('P', 466)","('P', 450)",paper-paper,0.4440406098629344
+"('P', 466)","('P', 451)",paper-paper,0.4605632700253619
+"('P', 466)","('P', 452)",paper-paper,0.7314599010597986
+"('P', 466)","('P', 459)",paper-paper,0.35491366511603106
+"('P', 466)","('P', 461)",paper-paper,0.2967347455210433
+"('P', 466)","('P', 465)",paper-paper,0.3249937365579615
+"('P', 466)","('P', 539)",paper-paper,0.6017221066422584
+"('P', 466)","('P', 536)",paper-paper,0.38374655321236006
+"('P', 466)","('P', 534)",paper-paper,0.3573851596773505
+"('P', 466)","('P', 492)",paper-paper,0.43096699541559014
+"('P', 411)","('P', 424)",paper-paper,0.3632881631704688
+"('P', 475)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 475)","('P', 139)",paper-paper,0.30076533108342113
+"('P', 475)","('P', 372)",paper-paper,0.42539789991173693
+"('P', 475)","('P', 477)",paper-paper,0.3998016750421872
+"('P', 112)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 539)","('P', 243)",paper-paper,1.0000000000000002
+"('P', 539)","('P', 269)",paper-paper,0.31445021469036427
+"('P', 539)","('P', 440)",paper-paper,0.41603677904642455
+"('P', 539)","('P', 449)",paper-paper,0.30597844099912275
+"('P', 539)","('P', 451)",paper-paper,0.5741282092678857
+"('P', 539)","('P', 452)",paper-paper,0.44013559259003987
+"('P', 121)","('P', 452)",paper-paper,0.2945630921879987
+"('P', 121)","('P', 440)",paper-paper,0.3323861196812381
+"('P', 121)","('P', 492)",paper-paper,0.33858071403074796
+"('P', 139)","('P', 100)",paper-paper,0.2997343898146228
+"('P', 139)","('P', 372)",paper-paper,0.3069502842272633
+"('P', 505)","('P', 507)",paper-paper,0.31168909967430714
+"('P', 450)","('P', 440)",paper-paper,0.3314788765131271
+"('P', 450)","('P', 447)",paper-paper,0.2935753317090017
+"('P', 450)","('P', 449)",paper-paper,0.3767497583542264
+"('P', 450)","('P', 452)",paper-paper,0.3350474454985634
+"('P', 450)","('P', 463)",paper-paper,0.381219819161011
+"('P', 514)","('P', 498)",paper-paper,0.35866945750303514
+"('P', 514)","('P', 500)",paper-paper,0.3700015540376048
+"('P', 514)","('P', 504)",paper-paper,0.46770633899369785
+"('P', 404)","('P', 410)",paper-paper,0.305751483306786
+"('P', 404)","('P', 424)",paper-paper,0.4128924783028412
+"('P', 404)","('P', 419)",paper-paper,0.28902135016359504
+"('P', 404)","('P', 433)",paper-paper,0.30794870927443996
+"('P', 404)","('P', 413)",paper-paper,0.29510187148520556
+"('P', 404)","('P', 426)",paper-paper,0.2999963805349236
+"('P', 523)","('P', 500)",paper-paper,0.2939999059703349
+"('P', 523)","('P', 522)",paper-paper,0.31225295452776897
+"('P', 413)","('P', 410)",paper-paper,0.30312887423672435
+"('P', 477)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 477)","('P', 100)",paper-paper,0.32637518478254834
+"('P', 477)","('P', 372)",paper-paper,0.35607943797426445
+"('P', 114)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 114)","('P', 116)",paper-paper,0.33393637508543816
+"('P', 59)","('P', 54)",paper-paper,0.3431704397223028
+"('P', 434)","('P', 417)",paper-paper,0.730362994098912
+"('P', 498)","('P', 488)",paper-paper,0.28355399130043707
+"('P', 269)","('P', 243)",paper-paper,0.31445021469036427
+"('P', 269)","('P', 452)",paper-paper,0.38224908207069186
+"('P', 269)","('P', 440)",paper-paper,0.36131973777060494
+"('P', 452)","('P', 52)",paper-paper,0.35491493710416955
+"('P', 452)","('P', 243)",paper-paper,0.44013559259003987
+"('P', 452)","('P', 262)",paper-paper,0.2831197298287765
+"('P', 452)","('P', 440)",paper-paper,0.5611309631135156
+"('P', 452)","('P', 449)",paper-paper,0.3863990336490836
+"('P', 452)","('P', 451)",paper-paper,0.38492380616570604
+"('P', 452)","('P', 492)",paper-paper,0.33220751845754276
+"('P', 452)","('P', 536)",paper-paper,0.3338187425967844
+"('P', 452)","('P', 534)",paper-paper,0.31920300970059834
+"('P', 461)","('P', 52)",paper-paper,0.29032907060223667
+"('P', 461)","('P', 72)",paper-paper,0.28205937612315174
+"('P', 461)","('P', 536)",paper-paper,0.2827365237515521
+"('P', 406)","('P', 426)",paper-paper,0.29681374590506254
+"('P', 406)","('P', 410)",paper-paper,0.2923257866935789
+"('P', 43)","('P', 56)",paper-paper,0.34221963690814333
+"('P', 534)","('P', 440)",paper-paper,0.3226000196174617
+"('P', 52)","('P', 440)",paper-paper,0.3584192770107102
+"('P', 52)","('P', 451)",paper-paper,0.3147706208912328
+"('P', 116)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 262)","('P', 440)",paper-paper,0.2837050399878311
+"('P', 500)","('P', 488)",paper-paper,0.30360659638753384
+"('P', 500)","('P', 493)",paper-paper,0.30843627793466943
+"('P', 500)","('P', 522)",paper-paper,0.2882918180242026
+"('P', 500)","('P', 509)",paper-paper,0.3316453390906042
+"('P', 500)","('P', 504)",paper-paper,0.3534928996380443
+"('P', 509)","('P', 129)",paper-paper,0.4013337870876328
+"('P', 509)","('P', 493)",paper-paper,0.3255879072963674
+"('P', 509)","('P', 504)",paper-paper,0.2861030888839097
+"('P', 454)","('P', 56)",paper-paper,0.29081256310125825
+"('P', 463)","('P', 442)",paper-paper,0.36128704934746037
+"('P', 100)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 420)","('P', 410)",paper-paper,0.3047280078218839
+"('P', 420)","('P', 419)",paper-paper,0.310387861295875
+"('P', 420)","('P', 426)",paper-paper,0.37908835199343005
+"('P', 420)","('P', 433)",paper-paper,0.31424828053838244
+"('P', 420)","('P', 435)",paper-paper,0.28391149703182705
+"('P', 420)","('P', 424)",paper-paper,0.31541914391338866
+"('P', 420)","('P', 437)",paper-paper,0.33467126360708616
+"('P', 255)","('P', 458)",paper-paper,1.0000000000000004
+"('P', 493)","('P', 488)",paper-paper,0.3223056752814574
+"('P', 447)","('P', 449)",paper-paper,0.4928824956074315
+"('P', 102)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 102)","('P', 472)",paper-paper,0.29437975200919564
+"('P', 422)","('P', 410)",paper-paper,0.3107414193092789
+"('P', 422)","('P', 419)",paper-paper,0.3392913457351879
+"('P', 422)","('P', 437)",paper-paper,0.2900947876280825
+"('P', 422)","('P', 426)",paper-paper,0.3503737241873477
+"('P', 422)","('P', 424)",paper-paper,0.3131052518510831
+"('KW', 'reliability engineering')","('P', 99)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 104)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 472)",paper-topic,1.0
+"('P', 440)","('P', 243)",paper-paper,0.41603677904642455
+"('P', 440)","('P', 451)",paper-paper,0.36816423093593675
+"('P', 440)","('P', 465)",paper-paper,0.31534851476203307
+"('P', 440)","('P', 492)",paper-paper,0.3689795759080857
+"('P', 440)","('P', 449)",paper-paper,0.39961956644895275
+"('P', 449)","('P', 243)",paper-paper,0.30597844099912275
+"('P', 449)","('P', 451)",paper-paper,0.2914480220066329
+"('P', 449)","('P', 492)",paper-paper,0.3265061914985006
+"('P', 522)","('P', 488)",paper-paper,0.28408507616903944
+"('P', 424)","('P', 410)",paper-paper,0.4120959579118485
+"('P', 424)","('P', 419)",paper-paper,0.3883330597796121
+"('P', 424)","('P', 433)",paper-paper,0.2864760264431733
+"('P', 424)","('P', 435)",paper-paper,0.3758518078411486
+"('P', 424)","('P', 426)",paper-paper,0.44398595885562786
+"('P', 488)","('P', 492)",paper-paper,0.29045433006147064
+"('P', 433)","('P', 410)",paper-paper,0.3268891584380639
+"('P', 433)","('P', 426)",paper-paper,0.330517128613178
+"('P', 497)","('P', 506)",paper-paper,0.3027564330905184
+"('P', 451)","('P', 243)",paper-paper,0.5741282092678857
+"('P', 426)","('P', 410)",paper-paper,0.348440298642161
+"('P', 426)","('P', 419)",paper-paper,0.406531660407092
+"('P', 426)","('P', 437)",paper-paper,0.30358227240386737
+"('P', 426)","('P', 435)",paper-paper,0.45783006921910235
+"('P', 435)","('P', 410)",paper-paper,0.3087855098301162
+"('P', 435)","('P', 419)",paper-paper,0.3407694488972797
+"('P', 465)","('P', 74)",paper-paper,0.30849964235696037
+"('P', 465)","('P', 492)",paper-paper,0.2910082753812444
+"('P', 410)","('P', 419)",paper-paper,0.33353550633813733
