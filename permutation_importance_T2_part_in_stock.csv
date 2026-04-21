@@ -1,0 +1,10 @@
+feature,importance_mean,importance_std
+severity_category,0.0864,0.0289
+dayofweek,0.0,0.0
+asset_type,0.0,0.0
+is_business_hours,-0.0016,0.0069
+hour,-0.0035,0.0046
+is_night,-0.0144,0.0101
+is_weekend,-0.0168,0.0115
+quarter,-0.0342,0.0206
+month,-0.0402,0.0167

@@ -1,0 +1,4 @@
+task,accuracy,balanced_acc,precision,recall,f1,auroc
+T1_severity_4class,0.0105,0.14,0.0168,0.0105,0.0133,0.0267
+T2_part_in_stock,0.0746,0.1475,0.0682,0.0746,0.0597,0.1665
+T3_long_downtime,0.029,0.1425,0.0281,0.029,0.0329,0.0071

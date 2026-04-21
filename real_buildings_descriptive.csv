@@ -1,0 +1,4 @@
+building,n_events,span_days,span_months,pct_FCU,pct_part_in_stock,downtime_median_h,downtime_mean_h,downtime_p95_h,sev_LOW,sev_MEDIUM,sev_HIGH,sev_CRITICAL
+A-79,63,485,15.93,87.3,79.4,16.28,23.36,58.41,34,21,6,2
+B-2,60,600,19.71,90.0,86.7,18.15,17.59,46.44,33,22,4,1
+B-5,61,318,10.45,91.8,86.9,38.4,33.85,53.34,33,23,1,4

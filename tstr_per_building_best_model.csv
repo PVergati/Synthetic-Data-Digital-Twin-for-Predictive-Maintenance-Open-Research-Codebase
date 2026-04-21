@@ -1,0 +1,10 @@
+task,model,building,n_events,accuracy,balanced_acc,precision,recall,f1,auroc,auprc,brier
+T1_severity_4class,HistGB,A-79,63,0.746,0.7864,0.7632,0.746,0.749,0.8975,,
+T1_severity_4class,HistGB,B-2,60,0.7333,0.5701,0.7587,0.7333,0.7301,0.8467,,
+T1_severity_4class,HistGB,B-5,61,0.7541,0.5242,0.7897,0.7541,0.7558,0.8866,,
+T2_part_in_stock,LogReg_L2,A-79,63,0.6508,0.6946,0.7948,0.6508,0.6841,0.7131,0.8891,0.1936
+T2_part_in_stock,LogReg_L2,B-2,60,0.6833,0.8173,0.9062,0.6833,0.7339,0.8281,0.9718,0.1599
+T2_part_in_stock,LogReg_L2,B-5,61,0.541,0.5236,0.7823,0.541,0.6151,0.5,0.8814,0.2495
+T3_long_downtime,GradBoost,A-79,63,0.9841,0.9844,0.9846,0.9841,0.9841,0.997,0.9965,0.0161
+T3_long_downtime,GradBoost,B-2,60,0.9333,0.9282,0.9333,0.9333,0.9333,0.9892,0.9928,0.0452
+T3_long_downtime,GradBoost,B-5,61,0.9344,0.7143,0.9389,0.9344,0.9225,0.9828,0.996,0.0484

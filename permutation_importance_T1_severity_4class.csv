@@ -1,0 +1,11 @@
+feature,importance_mean,importance_std
+total_downtime_h,0.2288,0.0403
+asset_type,0.1239,0.0142
+hour,0.0812,0.0226
+is_business_hours,0.0533,0.0142
+dayofweek,0.0527,0.0179
+part_in_stock,0.0421,0.0148
+month,0.0133,0.0154
+quarter,0.0,0.0
+is_weekend,0.0,0.0
+is_night,-0.0011,0.0047
