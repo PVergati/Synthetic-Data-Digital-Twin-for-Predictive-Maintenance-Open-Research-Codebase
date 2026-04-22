@@ -1,0 +1,581 @@
+source_node,target_node,edge_type,weight
+"('P', 462)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 462)","('P', 262)",paper-paper,1.0
+"('P', 169)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 169)","('P', 560)",paper-paper,0.28443979001331954
+"('P', 288)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 288)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 288)","('P', 240)",paper-paper,0.3578876451017382
+"('P', 288)","('P', 468)",paper-paper,0.3578876451017382
+"('P', 288)","('P', 496)",paper-paper,0.34055069913059904
+"('P', 288)","('P', 499)",paper-paper,0.3044588994492091
+"('P', 288)","('P', 473)",paper-paper,1.0000000000000002
+"('P', 526)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 526)","('P', 524)",paper-paper,0.29435465209918343
+"('P', 471)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 471)","('P', 291)",paper-paper,1.000000000000001
+"('P', 535)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 535)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 535)","('P', 86)",paper-paper,0.42391546688961473
+"('P', 535)","('P', 475)",paper-paper,0.3496942533778597
+"('P', 535)","('P', 489)",paper-paper,0.3088146141011441
+"('P', 535)","('P', 524)",paper-paper,0.42045813006280003
+"('P', 544)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 544)","('P', 573)",paper-paper,0.3088176340757782
+"('P', 544)","('P', 569)",paper-paper,0.3078600032970258
+"('P', 544)","('P', 580)",paper-paper,0.3005014299219609
+"('P', 544)","('P', 579)",paper-paper,0.30795657739387644
+"('P', 544)","('P', 577)",paper-paper,0.340291725882806
+"('P', 544)","('P', 550)",paper-paper,0.32141045547230457
+"('P', 544)","('P', 568)",paper-paper,0.353687400353574
+"('P', 489)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 489)","('P', 86)",paper-paper,0.33592077924170954
+"('P', 489)","('P', 275)",paper-paper,0.29302321905297035
+"('P', 489)","('P', 475)",paper-paper,0.36454204941368157
+"('P', 489)","('P', 496)",paper-paper,0.34297698725120934
+"('P', 489)","('P', 500)",paper-paper,0.6081027385758719
+"('P', 434)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 434)","('P', 426)",paper-paper,0.30195783932446457
+"('P', 434)","('P', 427)",paper-paper,0.30195783932446457
+"('P', 434)","('P', 450)",paper-paper,0.30195783932446457
+"('P', 434)","('P', 438)",paper-paper,0.30195783932446457
+"('P', 498)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 498)","('P', 86)",paper-paper,0.283324582288411
+"('P', 498)","('P', 475)",paper-paper,0.38561982201866446
+"('P', 498)","('P', 486)",paper-paper,0.28530286285595396
+"('P', 498)","('P', 496)",paper-paper,0.3218169444842005
+"('P', 562)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 562)","('P', 181)",paper-paper,0.3421440143438029
+"('P', 562)","('P', 554)",paper-paper,0.493719175392667
+"('P', 562)","('P', 555)",paper-paper,0.43832361702507716
+"('P', 562)","('P', 569)",paper-paper,0.2831095365245977
+"('P', 562)","('P', 575)",paper-paper,0.38872860132209364
+"('P', 80)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 144)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 144)","('P', 30)",paper-paper,0.37807491377038244
+"('P', 144)","('P', 95)",paper-paper,0.4066258255694153
+"('P', 162)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 162)","('P', 575)",paper-paper,0.2863715771609911
+"('P', 162)","('P', 557)",paper-paper,0.2879459356051473
+"('P', 455)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 455)","('P', 426)",paper-paper,0.2878291613902507
+"('P', 455)","('P', 427)",paper-paper,0.2878291613902507
+"('P', 455)","('P', 438)",paper-paper,0.2878291613902507
+"('P', 455)","('P', 450)",paper-paper,0.2878291613902507
+"('P', 519)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 519)","('P', 509)",paper-paper,0.3157612020979957
+"('P', 519)","('P', 513)",paper-paper,0.2927609903004567
+"('P', 519)","('P', 517)",paper-paper,0.32544927350278674
+"('P', 519)","('P', 524)",paper-paper,0.3495610602676983
+"('P', 519)","('P', 522)",paper-paper,0.4183648642690895
+"('P', 464)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 464)","('P', 273)",paper-paper,0.569779812050544
+"('P', 528)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 528)","('P', 523)",paper-paper,0.29416712568030406
+"('P', 528)","('P', 524)",paper-paper,0.44297138677487186
+"('P', 528)","('P', 525)",paper-paper,0.3102605442739206
+"('P', 473)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 473)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 473)","('P', 240)",paper-paper,0.3578876451017382
+"('P', 473)","('P', 468)",paper-paper,0.3578876451017382
+"('P', 473)","('P', 496)",paper-paper,0.34055069913059904
+"('P', 473)","('P', 499)",paper-paper,0.3044588994492091
+"('P', 537)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 537)","('P', 516)",paper-paper,0.45745671585853737
+"('P', 537)","('P', 524)",paper-paper,0.2956638068904151
+"('P', 0)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 0)","('P', 35)",paper-paper,0.5337480752886625
+"('P', 427)","('KW', 'reliability engineering')",paper-topic,1.0
+"('P', 427)","('P', 36)",paper-paper,0.3272105763563915
+"('P', 427)","('P', 422)",paper-paper,0.7159573228636329
+"('P', 427)","('P', 423)",paper-paper,0.3403690082197443
+"('P', 427)","('P', 424)",paper-paper,0.2832983081459518
+"('P', 427)","('P', 426)",paper-paper,1.0
+"('P', 427)","('P', 457)",paper-paper,0.636614129263646
+"('P', 427)","('P', 454)",paper-paper,0.5811148275031992
+"('P', 427)","('P', 452)",paper-paper,0.47589748099817736
+"('P', 427)","('P', 451)",paper-paper,0.5089563610642359
+"('P', 427)","('P', 450)",paper-paper,1.0
+"('P', 427)","('P', 449)",paper-paper,0.5260977398949607
+"('P', 427)","('P', 448)",paper-paper,0.600999245285004
+"('P', 427)","('P', 446)",paper-paper,0.6017907511996021
+"('P', 427)","('P', 444)",paper-paper,0.5341789999969642
+"('P', 427)","('P', 443)",paper-paper,0.38876801337272054
+"('P', 427)","('P', 442)",paper-paper,0.35407505200683415
+"('P', 427)","('P', 440)",paper-paper,0.4824882504115568
+"('P', 427)","('P', 439)",paper-paper,0.383746075150282
+"('P', 427)","('P', 438)",paper-paper,1.0
+"('P', 427)","('P', 437)",paper-paper,0.4570503939258761
+"('P', 546)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 546)","('P', 550)",paper-paper,0.30976198932923305
+"('P', 546)","('P', 579)",paper-paper,0.4257239396062085
+"('P', 546)","('P', 565)",paper-paper,0.30095606958737436
+"('P', 64)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 64)","('P', 490)",paper-paper,0.2998434889414791
+"('P', 64)","('P', 475)",paper-paper,0.28548860831273315
+"('P', 491)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 491)","('P', 475)",paper-paper,0.3622524408651939
+"('P', 491)","('P', 490)",paper-paper,0.2844800847952879
+"('P', 491)","('P', 500)",paper-paper,0.2849542263847403
+"('P', 491)","('P', 496)",paper-paper,0.32998623644128533
+"('P', 491)","('P', 494)",paper-paper,0.2904436842455788
+"('P', 555)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 555)","('P', 181)",paper-paper,0.45596830431267
+"('P', 555)","('P', 554)",paper-paper,0.5023247623461843
+"('P', 555)","('P', 575)",paper-paper,0.3660248248231436
+"('P', 137)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 137)","('P', 121)",paper-paper,0.3067202167207451
+"('P', 137)","('P', 158)",paper-paper,0.29360502707290675
+"('KW', 'reliability engineering')","('P', 1)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 20)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 23)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 24)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 28)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 30)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 35)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 36)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 421)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 422)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 423)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 424)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 426)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 429)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 430)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 431)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 433)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 436)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 437)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 438)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 439)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 440)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 442)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 443)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 444)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 445)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 446)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 448)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 449)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 450)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 451)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 452)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 454)",paper-topic,1.0
+"('KW', 'reliability engineering')","('P', 457)",paper-topic,1.0
+"('P', 448)","('P', 422)",paper-paper,0.43028981069731537
+"('P', 448)","('P', 426)",paper-paper,0.600999245285004
+"('P', 448)","('P', 430)",paper-paper,0.37638724665771334
+"('P', 448)","('P', 438)",paper-paper,0.600999245285004
+"('P', 448)","('P', 440)",paper-paper,0.2899750743562277
+"('P', 448)","('P', 444)",paper-paper,0.3210411758452737
+"('P', 448)","('P', 446)",paper-paper,0.3616757872904565
+"('P', 448)","('P', 457)",paper-paper,0.38260461122522127
+"('P', 448)","('P', 454)",paper-paper,0.349249572753348
+"('P', 448)","('P', 452)",paper-paper,0.28601402691293915
+"('P', 448)","('P', 451)",paper-paper,0.3058823888826078
+"('P', 448)","('P', 450)",paper-paper,0.600999245285004
+"('P', 448)","('P', 449)",paper-paper,0.3161843446230177
+"('P', 457)","('P', 23)",paper-paper,0.3816866367453935
+"('P', 457)","('P', 422)",paper-paper,0.45578854768476273
+"('P', 457)","('P', 426)",paper-paper,0.636614129263646
+"('P', 457)","('P', 437)",paper-paper,0.29096473855872795
+"('P', 457)","('P', 438)",paper-paper,0.636614129263646
+"('P', 457)","('P', 440)",paper-paper,0.3071588374156932
+"('P', 457)","('P', 443)",paper-paper,0.6106807805576006
+"('P', 457)","('P', 444)",paper-paper,0.3400658989539925
+"('P', 457)","('P', 446)",paper-paper,0.3831084950738501
+"('P', 457)","('P', 449)",paper-paper,0.33492125459080246
+"('P', 457)","('P', 450)",paper-paper,0.636614129263646
+"('P', 457)","('P', 451)",paper-paper,0.32400881063210235
+"('P', 457)","('P', 452)",paper-paper,0.3029630604844172
+"('P', 457)","('P', 454)",paper-paper,0.369945909913143
+"('P', 576)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 576)","('P', 545)",paper-paper,0.29994448308345417
+"('P', 576)","('P', 549)",paper-paper,0.3234740498694919
+"('P', 576)","('P', 550)",paper-paper,0.28728015001325374
+"('P', 576)","('P', 569)",paper-paper,0.30356524124528206
+"('P', 521)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 521)","('P', 513)",paper-paper,0.6707532420615042
+"('P', 521)","('P', 517)",paper-paper,0.4993601471214021
+"('P', 521)","('P', 524)",paper-paper,0.31645666722691873
+"('P', 466)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 466)","('P', 259)",paper-paper,0.5940942606193084
+"('P', 466)","('P', 285)",paper-paper,0.31395191556126234
+"('P', 466)","('P', 469)",paper-paper,0.28195489369820625
+"('P', 466)","('P', 496)",paper-paper,0.2954301904264912
+"('P', 475)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 475)","('P', 86)",paper-paper,0.38125498877964364
+"('P', 475)","('P', 259)",paper-paper,0.28800805738824653
+"('P', 475)","('P', 273)",paper-paper,0.35614464738257096
+"('P', 475)","('P', 275)",paper-paper,0.3926356018141702
+"('P', 475)","('P', 285)",paper-paper,0.28345079336145645
+"('P', 475)","('P', 461)",paper-paper,0.32566034222501616
+"('P', 475)","('P', 463)",paper-paper,0.3351440147687732
+"('P', 475)","('P', 500)",paper-paper,0.3842334867559303
+"('P', 475)","('P', 497)",paper-paper,0.30376634232047856
+"('P', 475)","('P', 487)",paper-paper,0.36052739464777267
+"('P', 475)","('P', 492)",paper-paper,0.3451755890102984
+"('P', 475)","('P', 486)",paper-paper,0.3319089762761988
+"('P', 475)","('P', 494)",paper-paper,0.4003864877672685
+"('P', 475)","('P', 493)",paper-paper,0.35810915596326975
+"('P', 475)","('P', 488)",paper-paper,0.34067889794653666
+"('P', 475)","('P', 496)",paper-paper,0.49737653542594756
+"('P', 475)","('P', 490)",paper-paper,0.39567346780805795
+"('P', 539)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 539)","('P', 524)",paper-paper,0.39886688334731457
+"('P', 539)","('P', 525)",paper-paper,0.30943016284766023
+"('P', 539)","('P', 536)",paper-paper,0.3295929303736355
+"('P', 121)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 121)","('P', 158)",paper-paper,0.31573619594490154
+"('P', 20)","('P', 1)",paper-paper,0.3335863285565424
+"('P', 20)","('P', 23)",paper-paper,0.31523496826745034
+"('P', 139)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 139)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 93)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 93)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 505)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 505)","('P', 524)",paper-paper,0.3440780589225731
+"('P', 505)","('P', 513)",paper-paper,0.28545652010926326
+"('P', 505)","('P', 510)",paper-paper,0.29968509583225905
+"('P', 450)","('P', 36)",paper-paper,0.3272105763563915
+"('P', 450)","('P', 422)",paper-paper,0.7159573228636329
+"('P', 450)","('P', 423)",paper-paper,0.3403690082197443
+"('P', 450)","('P', 424)",paper-paper,0.2832983081459518
+"('P', 450)","('P', 426)",paper-paper,1.0
+"('P', 450)","('P', 437)",paper-paper,0.4570503939258761
+"('P', 450)","('P', 438)",paper-paper,1.0
+"('P', 450)","('P', 439)",paper-paper,0.383746075150282
+"('P', 450)","('P', 440)",paper-paper,0.4824882504115568
+"('P', 450)","('P', 442)",paper-paper,0.35407505200683415
+"('P', 450)","('P', 443)",paper-paper,0.38876801337272054
+"('P', 450)","('P', 444)",paper-paper,0.5341789999969642
+"('P', 450)","('P', 446)",paper-paper,0.6017907511996021
+"('P', 450)","('P', 449)",paper-paper,0.5260977398949607
+"('P', 450)","('P', 454)",paper-paper,0.5811148275031992
+"('P', 450)","('P', 452)",paper-paper,0.47589748099817736
+"('P', 450)","('P', 451)",paper-paper,0.5089563610642359
+"('P', 514)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 514)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 514)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 514)","('P', 86)",paper-paper,0.34699539229927645
+"('P', 514)","('P', 470)",paper-paper,0.3051475675303722
+"('P', 514)","('P', 524)",paper-paper,0.33609619698742155
+"('P', 285)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 285)","('P', 275)",paper-paper,0.2934152025010688
+"('P', 285)","('P', 496)",paper-paper,0.3586120855008749
+"('P', 523)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 523)","('P', 525)",paper-paper,0.29368399889072083
+"('P', 523)","('P', 524)",paper-paper,0.4370743020410245
+"('P', 523)","('P', 532)",paper-paper,0.3032204378888255
+"('P', 468)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 468)","('P', 240)",paper-paper,1.0000000000000002
+"('P', 532)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 532)","('P', 524)",paper-paper,0.3482306225272689
+"('P', 477)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 477)","('KW', 'predictive maintenance')",paper-topic,1.0
+"('P', 477)","('KW', 'synthetic data')",paper-topic,1.0
+"('P', 477)","('P', 53)",paper-paper,0.35654433214869274
+"('KW', 'predictive maintenance')","('P', 36)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 81)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 83)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 86)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 94)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 95)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 99)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 109)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 112)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 136)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 138)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 470)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 503)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 504)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 506)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 507)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 508)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 509)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 510)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 513)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 515)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 516)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 517)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 518)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 520)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 522)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 524)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 525)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 527)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 531)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 534)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 536)",paper-topic,1.0
+"('KW', 'predictive maintenance')","('P', 538)",paper-topic,1.0
+"('P', 86)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 86)","('P', 524)",paper-paper,0.34661513975397884
+"('P', 86)","('P', 490)",paper-paper,0.29921898953379683
+"('P', 86)","('P', 496)",paper-paper,0.3221019912667467
+"('P', 86)","('P', 275)",paper-paper,0.2963359185245502
+"('P', 86)","('P', 494)",paper-paper,0.2804846839423639
+"('P', 86)","('P', 493)",paper-paper,0.2927240262584829
+"('P', 150)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 443)","('P', 426)",paper-paper,0.38876801337272054
+"('P', 443)","('P', 438)",paper-paper,0.38876801337272054
+"('P', 507)","('P', 508)",paper-paper,0.8271338257251297
+"('KW', 'synthetic data')","('P', 99)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 166)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 177)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 179)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 181)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 186)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 542)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 545)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 547)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 549)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 550)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 551)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 552)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 554)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 556)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 557)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 558)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 560)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 563)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 564)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 565)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 566)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 568)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 569)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 571)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 572)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 573)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 574)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 575)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 577)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 579)",paper-topic,1.0
+"('KW', 'synthetic data')","('P', 580)",paper-topic,1.0
+"('P', 452)","('P', 422)",paper-paper,0.3407222864530017
+"('P', 452)","('P', 426)",paper-paper,0.47589748099817736
+"('P', 452)","('P', 438)",paper-paper,0.47589748099817736
+"('P', 452)","('P', 446)",paper-paper,0.2863907025838915
+"('P', 571)","('P', 186)",paper-paper,0.34524449381930733
+"('P', 571)","('P', 551)",paper-paper,0.35246297787064823
+"('P', 571)","('P', 572)",paper-paper,0.4278453185524522
+"('P', 516)","('P', 524)",paper-paper,0.3521221603874801
+"('P', 516)","('P', 522)",paper-paper,0.2939574292139584
+"('P', 461)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 461)","('P', 223)",paper-paper,0.31460064679771027
+"('P', 525)","('P', 503)",paper-paper,0.2812107786886604
+"('P', 525)","('P', 520)",paper-paper,0.5445986890334287
+"('P', 525)","('P', 524)",paper-paper,0.5709509661942267
+"('P', 525)","('P', 536)",paper-paper,0.3126139708213873
+"('P', 470)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 470)","('P', 223)",paper-paper,0.3421884744507403
+"('P', 470)","('P', 259)",paper-paper,0.35073490775637345
+"('P', 470)","('P', 289)",paper-paper,0.3773229445598271
+"('P', 470)","('P', 476)",paper-paper,0.34585196584378286
+"('P', 534)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 479)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 479)","('P', 495)",paper-paper,0.2856763095589715
+"('P', 479)","('P', 487)",paper-paper,0.28068427806949514
+"('P', 479)","('P', 493)",paper-paper,0.3310138918940259
+"('P', 436)","('P', 24)",paper-paper,0.3230382474389398
+"('P', 436)","('P', 433)",paper-paper,0.4352866697597785
+"('P', 262)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 500)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 500)","('P', 275)",paper-paper,0.2847674500772447
+"('P', 500)","('P', 487)",paper-paper,0.29121709108501237
+"('P', 500)","('P', 494)",paper-paper,0.2957003735272157
+"('P', 500)","('P', 496)",paper-paper,0.34908578753479735
+"('P', 445)","('P', 24)",paper-paper,0.33410302687690097
+"('P', 564)","('P', 552)",paper-paper,0.2949834371668393
+"('P', 564)","('P', 569)",paper-paper,0.33198789074905233
+"('P', 564)","('P', 575)",paper-paper,0.2846891447001903
+"('P', 564)","('P', 577)",paper-paper,0.29467289588812295
+"('P', 454)","('P', 422)",paper-paper,0.41605341617555236
+"('P', 454)","('P', 426)",paper-paper,0.5811148275031992
+"('P', 454)","('P', 438)",paper-paper,0.5811148275031992
+"('P', 454)","('P', 440)",paper-paper,0.2803810764102322
+"('P', 454)","('P', 444)",paper-paper,0.3104193374390673
+"('P', 454)","('P', 446)",paper-paper,0.34970952857637744
+"('P', 454)","('P', 449)",paper-paper,0.305723197368883
+"('P', 454)","('P', 451)",paper-paper,0.29576208796649944
+"('P', 573)","('P', 547)",paper-paper,0.29607922521955876
+"('P', 573)","('P', 550)",paper-paper,0.2979902129992251
+"('P', 573)","('P', 569)",paper-paper,0.33068786938144246
+"('P', 573)","('P', 579)",paper-paper,0.34447979181551247
+"('P', 573)","('P', 577)",paper-paper,0.3149421782782467
+"('P', 36)","('P', 438)",paper-paper,0.3272105763563915
+"('P', 36)","('P', 426)",paper-paper,0.3272105763563915
+"('P', 36)","('P', 440)",paper-paper,0.2996650142795248
+"('P', 463)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 527)","('P', 513)",paper-paper,0.2833757872341521
+"('P', 472)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 472)","('P', 282)",paper-paper,1.0000000000000002
+"('P', 109)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 536)","('P', 522)",paper-paper,0.33184084091665916
+"('P', 536)","('P', 524)",paper-paper,0.362231420942848
+"('P', 136)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 136)","('P', 112)",paper-paper,0.39399807763988653
+"('P', 429)","('P', 437)",paper-paper,0.4877811085745183
+"('P', 493)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 493)","('P', 496)",paper-paper,0.3160701890093094
+"('P', 493)","('P', 495)",paper-paper,0.40322729452454587
+"('P', 438)","('P', 422)",paper-paper,0.7159573228636329
+"('P', 438)","('P', 423)",paper-paper,0.3403690082197443
+"('P', 438)","('P', 424)",paper-paper,0.2832983081459518
+"('P', 438)","('P', 426)",paper-paper,1.0
+"('P', 438)","('P', 437)",paper-paper,0.4570503939258761
+"('P', 438)","('P', 451)",paper-paper,0.5089563610642359
+"('P', 438)","('P', 449)",paper-paper,0.5260977398949607
+"('P', 438)","('P', 446)",paper-paper,0.6017907511996021
+"('P', 438)","('P', 444)",paper-paper,0.5341789999969642
+"('P', 438)","('P', 442)",paper-paper,0.35407505200683415
+"('P', 438)","('P', 440)",paper-paper,0.4824882504115568
+"('P', 438)","('P', 439)",paper-paper,0.383746075150282
+"('P', 557)","('P', 545)",paper-paper,0.4532319547383285
+"('P', 557)","('P', 569)",paper-paper,0.31311719341337396
+"('P', 557)","('P', 575)",paper-paper,0.3001705340841599
+"('P', 273)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 566)","('P', 575)",paper-paper,0.2866101550711658
+"('P', 575)","('P', 166)",paper-paper,0.2867880067422245
+"('P', 575)","('P', 181)",paper-paper,0.3337112580498523
+"('P', 575)","('P', 545)",paper-paper,0.28118196635013915
+"('P', 575)","('P', 549)",paper-paper,0.3181784943919513
+"('P', 575)","('P', 550)",paper-paper,0.30600378448961496
+"('P', 575)","('P', 554)",paper-paper,0.3241354258959921
+"('P', 575)","('P', 569)",paper-paper,0.3592071975046702
+"('P', 575)","('P', 579)",paper-paper,0.3105613042004328
+"('P', 520)","('P', 524)",paper-paper,0.3426894828404289
+"('P', 465)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 465)","('P', 488)",paper-paper,0.28834477735767344
+"('P', 1)","('P', 23)",paper-paper,0.28251440471595307
+"('P', 120)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 120)","('P', 94)",paper-paper,0.34555176696318984
+"('P', 422)","('P', 451)",paper-paper,0.3643910337219669
+"('P', 422)","('P', 446)",paper-paper,0.43085649515296176
+"('P', 422)","('P', 444)",paper-paper,0.38244936676779906
+"('P', 422)","('P', 442)",paper-paper,0.3047203257682105
+"('P', 422)","('P', 439)",paper-paper,0.28806228943059764
+"('P', 422)","('P', 437)",paper-paper,0.32722857644893905
+"('P', 422)","('P', 426)",paper-paper,0.7159573228636329
+"('P', 422)","('P', 449)",paper-paper,0.44752287500650656
+"('P', 422)","('P', 440)",paper-paper,0.38152129220606795
+"('P', 486)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 486)","('P', 485)",paper-paper,0.30868531022241985
+"('P', 486)","('P', 490)",paper-paper,0.2816412299929832
+"('P', 486)","('P', 494)",paper-paper,0.2830225120880143
+"('P', 486)","('P', 496)",paper-paper,0.33076576368017785
+"('P', 138)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 138)","('P', 140)",paper-paper,0.3418688251309635
+"('P', 550)","('P', 569)",paper-paper,0.32046214713488974
+"('P', 550)","('P', 552)",paper-paper,0.2915205392213096
+"('P', 550)","('P', 579)",paper-paper,0.418492713050785
+"('P', 550)","('P', 577)",paper-paper,0.3318267417248475
+"('P', 550)","('P', 565)",paper-paper,0.31249472875557066
+"('P', 495)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 440)","('P', 426)",paper-paper,0.4824882504115568
+"('P', 440)","('P', 446)",paper-paper,0.3057872107825593
+"('P', 440)","('P', 449)",paper-paper,0.2973032877562851
+"('P', 440)","('P', 451)",paper-paper,0.6109419584671506
+"('P', 504)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 449)","('P', 426)",paper-paper,0.5260977398949607
+"('P', 449)","('P', 444)",paper-paper,0.28103036459775305
+"('P', 449)","('P', 446)",paper-paper,0.43072818206353963
+"('P', 449)","('P', 451)",paper-paper,0.29111718935697933
+"('P', 513)","('P', 524)",paper-paper,0.38252106307768097
+"('P', 513)","('P', 517)",paper-paper,0.4923460958367999
+"('P', 577)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 577)","('P', 547)",paper-paper,0.3341863388685435
+"('P', 577)","('P', 552)",paper-paper,0.28409264317968713
+"('P', 577)","('P', 569)",paper-paper,0.3508017978934948
+"('P', 577)","('P', 579)",paper-paper,0.32843687758481954
+"('P', 95)","('P', 30)",paper-paper,0.38877786894994965
+"('P', 522)","('P', 517)",paper-paper,0.3187130908104463
+"('P', 522)","('P', 524)",paper-paper,0.37434079098337975
+"('P', 223)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 223)","('P', 289)",paper-paper,0.32351917461062274
+"('P', 177)","('P', 569)",paper-paper,0.37292436314867505
+"('P', 177)","('P', 574)",paper-paper,0.3413819766555953
+"('P', 186)","('P', 572)",paper-paper,0.42074501268558356
+"('P', 424)","('P', 426)",paper-paper,0.2832983081459518
+"('P', 488)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 488)","('P', 496)",paper-paper,0.2978798878189005
+"('P', 433)","('P', 421)",paper-paper,0.45926568871591517
+"('P', 259)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 259)","('P', 469)",paper-paper,0.28602857954024796
+"('P', 259)","('P', 496)",paper-paper,0.30991972467556544
+"('P', 259)","('P', 289)",paper-paper,0.32507305539008013
+"('P', 552)","('P', 569)",paper-paper,0.28726558832283255
+"('P', 497)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 497)","('P', 496)",paper-paper,0.28884301807326085
+"('P', 442)","('P', 426)",paper-paper,0.35407505200683415
+"('P', 506)","('P', 524)",paper-paper,0.2856769287706968
+"('P', 451)","('P', 426)",paper-paper,0.5089563610642359
+"('P', 451)","('P', 446)",paper-paper,0.30628523085266246
+"('P', 515)","('P', 524)",paper-paper,0.32912663556257094
+"('P', 152)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 152)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 579)","('P', 558)",paper-paper,0.3600178919027101
+"('P', 579)","('P', 563)",paper-paper,0.3132456366269871
+"('P', 579)","('P', 569)",paper-paper,0.33098086007201344
+"('P', 524)","('P', 503)",paper-paper,0.39648284759058117
+"('P', 524)","('P', 510)",paper-paper,0.43353906891991967
+"('P', 524)","('P', 517)",paper-paper,0.31249111922531925
+"('P', 524)","('P', 538)",paper-paper,0.3243073501849687
+"('P', 289)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 289)","('P', 474)",paper-paper,0.2990971251206943
+"('P', 289)","('P', 476)",paper-paper,0.28846887522611764
+"('P', 179)","('P', 556)",paper-paper,0.3748412829471884
+"('P', 124)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 124)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 426)","('P', 423)",paper-paper,0.3403690082197443
+"('P', 426)","('P', 446)",paper-paper,0.6017907511996021
+"('P', 426)","('P', 444)",paper-paper,0.5341789999969642
+"('P', 426)","('P', 439)",paper-paper,0.383746075150282
+"('P', 426)","('P', 437)",paper-paper,0.4570503939258761
+"('P', 490)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 490)","('P', 492)",paper-paper,0.2881117289907584
+"('P', 490)","('P', 496)",paper-paper,0.34691915635137455
+"('P', 490)","('P', 494)",paper-paper,0.34957851250163746
+"('P', 554)","('P', 181)",paper-paper,0.418467878668184
+"('P', 499)","('KW', 'digital twin')",paper-topic,1.0
+"('P', 444)","('P', 446)",paper-paper,0.3214639816832253
+"('P', 81)","('P', 151)",paper-paper,0.42493152477618357
+"('P', 81)","('P', 140)",paper-paper,0.36527834457310215
+"('P', 572)","('P', 551)",paper-paper,0.30929755076530996
+"('KW', 'digital twin')","('P', 53)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 83)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 240)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 275)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 282)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 291)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 467)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 469)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 474)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 476)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 478)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 485)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 487)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 492)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 494)",paper-topic,1.0
+"('KW', 'digital twin')","('P', 496)",paper-topic,1.0
+"('P', 547)","('P', 569)",paper-paper,0.32765222091883467
+"('P', 492)","('P', 275)",paper-paper,0.2928327735674483
+"('P', 492)","('P', 487)",paper-paper,0.3033572129720044
+"('P', 492)","('P', 496)",paper-paper,0.29489055279118115
+"('P', 492)","('P', 494)",paper-paper,0.368207760488824
+"('P', 446)","('P', 439)",paper-paper,0.290636131882653
+"('P', 28)","('P', 421)",paper-paper,0.3444723281259167
+"('P', 574)","('P', 549)",paper-paper,0.3037027127586435
+"('P', 574)","('P', 569)",paper-paper,0.2921614611958522
+"('P', 156)","('KW', 'condition monitoring')",paper-topic,1.0
+"('P', 156)","('P', 142)",paper-paper,0.34540045566713684
+"('P', 275)","('P', 494)",paper-paper,0.3046012695559217
+"('P', 275)","('P', 469)",paper-paper,0.45960102700405214
+"('P', 275)","('P', 496)",paper-paper,0.37956438950107496
+"('P', 467)","('P', 478)",paper-paper,0.28044722823972895
+"('KW', 'condition monitoring')","('P', 140)",paper-topic,1.0
+"('KW', 'condition monitoring')","('P', 142)",paper-topic,1.0
+"('KW', 'condition monitoring')","('P', 151)",paper-topic,1.0
+"('KW', 'condition monitoring')","('P', 158)",paper-topic,1.0
+"('P', 549)","('P', 569)",paper-paper,0.3039812977582493
+"('P', 494)","('P', 496)",paper-paper,0.3686234801653692
+"('P', 140)","('P', 151)",paper-paper,0.3750705547375256
+"('P', 542)","('P', 551)",paper-paper,0.57768846170991
+"('P', 487)","('P', 496)",paper-paper,0.3275482065633467
